@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "email": "email@example.com",
+    "domain": "example.com",
+    "mx": false,
+    "disposable": false,
+    "alias": false,
+    "did_you_mean": null
+}
